@@ -34,5 +34,5 @@ class Gestiones:
             autor = input("Ingrese el autor: ")
             añio = int(input("Ingrese el año de publicacion: "))
 
-            self.libros[codigo]
+            self.libros[codigo] =
 
